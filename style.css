@@ -7,6 +7,12 @@ h3{
     font-family: 'Courier New', Courier, monospace;
 }
 
+button.btnBack{
+    border-radius: 30px;
+    background-color:black;
+    color: pink;
+}
+
 div.anhThu {
     display: block;
 }

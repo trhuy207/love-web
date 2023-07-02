@@ -8,3 +8,9 @@ id.addEventListener('click', () => {
     const meme = document.getElementById('toTinh');
     meme.style.display = 'block';
 });
+
+const back = document.getElementById('back');
+
+back.addEventListener('click', () => {
+    location.reload();
+})
